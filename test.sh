@@ -1,6 +1,6 @@
 #/bin/bash +x
-PAYCOIN="KMD"
-PAYADDR="RLHaW85aMae4TBTU8KXgd3utfZQ7pexSY8"
+PAYCOIN="DGB"
+PAYADDR="DTBBPejpUGbWq8wc6rNArA7zibDwsugW3D"
 DURATION=900 # how long to test each algo in seconds
 
 # - allium
